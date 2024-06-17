@@ -95,11 +95,7 @@ a {
 .advantages-item:nth-child(3) {
   background-color: rgba(131, 179, 211, 0.2);
 }
-.advantages-item.item-wide, .subscribe-btn,
-.apply-filter-btn, .add-favorite-btn, .pagination-item a {
-  background-color: rgba(130, 179, 211, 1);
-  color:#fff;
-}
+
 .service-item:nth-child(2), .card-price-row {
   background-color: #fff;
 }
@@ -111,10 +107,7 @@ a {
 .subscribe {
   background: url(../images/subscribe-bg.jpg) no-repeat #82B3D3;
 }
-.main-index .subscribe-title, .main-index .subscribe-text,
-.item-wide h3, .item-wide p {
-  color: #fff;
-}
+
 .subscribe-input, .price-filter input[type=number] {
   font-family: inherit;
   background-color: #f2f2f2;
@@ -143,9 +136,7 @@ a {
 .filter-form {
   align-items: start;
 }
-.filter-form fieldset, .filter-form button, button.catalog-card-btn {
-  border: none;
-}
+
 .infrastructure-filter, .housing-filter {
   flex-direction: column;
 }
