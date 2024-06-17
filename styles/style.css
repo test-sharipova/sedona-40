@@ -68,10 +68,10 @@ a {
 }
 .hero {
   background-color: #82B3D3;
-  background-image: url(../images/divider.svg), url(../images/index-bg.jpg);
-  background-position: center bottom, center center;
+  background-image: url(../images/index-bg.jpg);
+  background-position: center center;
   background-repeat: no-repeat;
-  background-size: 100% auto, cover;
+  background-size: cover;
 }
 .lead, .subscribe-title, .catalog-result-title {
   font-size: 30px;
