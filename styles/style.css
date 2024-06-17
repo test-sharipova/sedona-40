@@ -43,11 +43,7 @@ a {
   padding: 8px 50px;
   border-radius: 4px;
 }
-.header-nav, .main-footer, .header-links, .header-icons,
-.filter-form, .filter-form fieldset, .catalog-header,
-.catalog-cards, .pagination {
-  display: flex;
-}
+
 .header-links-item a {
   font-size: 20px;
   line-height: 24px;
@@ -61,13 +57,7 @@ a {
   text-underline-offset: 20px;
   text-underline-position: under;
 }
-.header-favorites-link output {
-  background-color: #7DB54F;
-  font-size: 10px;
-  line-height: 10px;
-  color: #fff;
-  border-radius: 10px;
-}
+
 .header-btn, .filter-form button,
 .catalog-card-btn, .card-rating-row {
   font-size: 16px;
